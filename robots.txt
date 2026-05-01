@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-2c6vi4.enginewlb.org/sitemap.xml
